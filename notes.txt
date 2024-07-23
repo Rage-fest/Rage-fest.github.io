@@ -1,0 +1,8 @@
+changer couleur des titres pour éviter monochrome
+
+responsive tel:
+mettre logos dessus logo
+décompte sur une ligne
+padding newsletter
+taille photo gallerie
+footer l'un sous l'autre
